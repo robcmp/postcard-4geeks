@@ -50,6 +50,7 @@ input {
     background-color: #eee;
     margin-right: 30px;
     height: 20%;
+    outline: none;
 }
 /* POSTCARD BODY END */
 
@@ -66,5 +67,7 @@ button {
     transform: translate(-50%, -50%);
     background: lightgray;
     height: 30px;
+    border: 0;
 }
+
 /* POSTCARD FOOTER END */
